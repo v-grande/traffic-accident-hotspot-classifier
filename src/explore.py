@@ -1,3 +1,12 @@
+'''
+Traffic Accident Hotspot Classifier 
+
+Uses city accident data to find risky locations, times of day, and weather conditions.
+Clusters accident locations or classify high-risk conditions.
+
+Uses: dictionaries, CSV data, clustering, charts, engineering decision-making.
+'''
+
 import csv
 from collections import Counter
 
