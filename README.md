@@ -15,4 +15,5 @@ with higher-risk crashes.
 ## Project Structure
 - `data/raw/` - original crash data (unmodified)
 - `src/` - Python scripts
+- `outputs/` - HTML data visualization map
 - `README.md` - project description
